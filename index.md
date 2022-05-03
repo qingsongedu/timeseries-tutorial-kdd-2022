@@ -22,6 +22,18 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
    - Deep Learning: RNN, CNN, GNN, Transformer, Data Augmentation for Time Series
 
 
+2. Robust Time Series Processing Blocks [[slides]]()
+   - Time Series Periodicity Detection
+   - Time Series Trend Filtering
+   - Time Series Seasonal-Trend Decomposition
+   - Time Series Similarity
+
+3. Robust Time Series Applications and Practices [[slides]]()
+   - Forecasting: Tree Model, Deep Ensemble, Transformer, and Case Studies
+   - Anomaly Detection: Decomposition Model, Deep State Space Model, Transformer, and Case Studies
+   - Fault Cause Localization: Rule Set Learning, Root Cause Analysis, and Case Studies
+   - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
+
 
 #  Key References Published by Lecturers
 
