@@ -14,7 +14,12 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 
 #  Tutorial Outline and Materials
 
-
+1. Preliminaries [[slides]]()
+   - Real-world Challenges and Needs for Robustness
+   - Robust Statistics: Robust Regression, M-estimators
+   - Signal Processing: Fourier, Wavelet 
+   - Optimization Algorithms: Alternating Direction Method of Multipliers (ADMM), Majorize-Minimization (MM)
+   - Deep Learning: RNN, CNN, GNN, Transformer, Data Augmentation for Time Series
 
 
 
