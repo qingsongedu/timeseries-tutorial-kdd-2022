@@ -85,5 +85,8 @@ If you find our work useful, please cite our work
 }
 ```
 
+## Previous Tutorial
+- IJCAI 2021 Tutorial: [Robust Time Series Analysis: from Theory to Applications in the AI Era](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fqingsongedu.github.io%2Ftimeseries-tutorial-kdd-2022%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23+Visitors+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
