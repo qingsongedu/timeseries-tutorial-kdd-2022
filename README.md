@@ -1,6 +1,5 @@
 
-#  Robust Time Series Analysis and Applications: An Industrial Perspective
-
+Welcome!
 
 #  Tutorial Date, Time, Location
 - **Date**: TBD
