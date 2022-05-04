@@ -1,6 +1,6 @@
 
 
-Welcome to our tutorial!
+Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial!
 
 ##  Tutorial Date, Time, Location
 - **Date**: TBD
@@ -70,5 +70,20 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 - **Tian Zhou** is currently a Senior Algorithm Engineer in Alibaba DAMO Lab, working mainly on time series forecasting and sequence modeling. He has worked on all aspects ranging from practical model designing to theoretical foundations. Prior to joining Alibaba, Tian obtained a BS in chemistry from Tsinghua University, an MS in Statistics from Rutgers-New Brunswick, an MS in Machine Learning from Rutgers-New Brunswick, and a PhD from Rutgers-New Brunswick, focusing on computational chemistry for organometalic catalysts.
 
 - **Liang Sun** is currently a Senior Staff Engineer / Engineering Director at DAMO Academy, Alibaba Group, Bellevue, USA. He received B.S.(2003) from Nanjing University, and Ph.D.(2011) from Arizona State University, both in computer science. Dr. Sun has over 30 publications including 2 books in the fields of machine learning and data mining. His work on dimensionality reduction won the KDD 2010 Best Research Paper Award Honorable Mention, and won the Second Place in KDD Cup 2012 Track 2 Competition. He also won the First Place in 2022 ICASSP Grand Challenge (AIOps in Networks) Competition. At Alibaba Group, he is working on temporal data mining, including time series anomaly detection, forecasting, and their applications.
+
+
+## Cite our work
+If you find our work useful, please cite our work
+- KDD 2022 Tutorial (Robust Time Series Analysis and Applications: An Industrial Perspective)
+```
+@inproceedings{wen2022kddtimeseries,
+  title={Robust Time Series Analysis and Applications: An Industrial Perspective},
+  author={Wen, Qingsong and Yang, Linxiao and Zhou, Tian and Sun, Liang},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={1--2},
+  year={2022}
+}
+```
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fqingsongedu.github.io%2Ftimeseries-tutorial-kdd-2022%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23+Visitors+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
