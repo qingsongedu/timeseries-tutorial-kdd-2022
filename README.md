@@ -1,5 +1,5 @@
 
-#  Robust Time Series Analysis and Applications
+#  Robust Time Series Analysis and Applications: An Industrial Perspective
 
 
 #  Tutorial Date, Time, Location
