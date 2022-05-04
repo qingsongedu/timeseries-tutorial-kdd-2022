@@ -1,21 +1,7 @@
-# Setup
-title:        "Robust Time Series Analysis and Applications: An Industrial Perspective"
-tagline:      A tutorial at KDD 2022
-baseurl:      "/timeseries-tutorial-kdd-2022/"
-paginate:     1
-locale:       "en"
-exclude:      [ "README.md", "Gemfile.lock", "Gemfile", "jekyll-cayman-theme.gemspec" ]
-
-# About/contact
-author:
-  name:       Qingsong Wen
-  url:        https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
-
 theme: jekyll-theme-cayman
+title: "Robust Time Series Analysis and Applications: An Industrial Perspective"
+description: >- # this means to ignore newlines until "baseurl:"
+ A tutorial at KDD 2022
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: qingsongedu
