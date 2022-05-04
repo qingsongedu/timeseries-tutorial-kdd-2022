@@ -1,20 +1,20 @@
 
 
 
-#  Tutorial Date, Time, Location
+##  Tutorial Date, Time, Location
 - **Date**: TBD
 - **Time**: TBD
 - **Location**: TBD
 
 
-#  Tutorial Abstract
+## Tutorial Abstract
 
 Time series analysis is ubiquitous and important in various areas, such as Artificial Intelligence for IT Operations (AIOps) in cloud computing, AI-powered Business Intelligence in E-commerce, Artificial Intelligence of Things (AIoT), etc. In real-world scenarios, time series data often exhibit complex patterns with trend, seasonality, outlier and noise. In addition, as more time series data are collected and stored, how to handle the huge amount of data efficiently is crucial in many applications. We note that these significant challenges exist in various tasks like forecasting, anomaly detection, and fault cause localization. Therefore, how to design effective and efficient time series models for different tasks, which are robust to address the aforementioned challenging patterns and noise in real scenarios, is of great theoretical and practical interests.
 
 In this tutorial, we provide a comprehensive and organized tutorial on the state-of-the-art algorithms of robust time series analysis, ranging from traditional statistical methods to the most recent deep learning based methods. We will not only introduce the principle of time series algorithms, but also provide insights into how to apply them effectively in practical real-world industrial applications. Specifically, we organize the tutorial in a bottom-up framework. We first present preliminaries from different disciplines including robust statistics, signal processing, optimization, and deep learning. Then, we identify and discuss those most-frequently processing blocks in robust time series analysis, including periodicity detection, trend filtering, seasonal-trend decomposition, and time series similarity. Lastly, we discuss recent advances in multiple time series tasks including forecasting, anomaly detection, fault cause localization, and autoscaling, as well as practical lessons of large-scale time series applications from an industrial perspective. 
 
 
-#  Tutorial Outline and Materials
+## Tutorial Outline and Materials
 
 1. Preliminaries [[slides]]()
    - Real-world Challenges and Needs for Robustness
@@ -37,7 +37,7 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
    - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
 
 
-#  Key References Published by Lecturers
+## Key References Published by Lecturers
 
 - **[IJCAI'21]** Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu, "Time Series Data Augmentation for Deep Learning: A Survey," in the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021), Montreal, Canada, Aug. 2021. [Oral] [arXiv]. Note: Selected by Paper Digest into **Most Influential IJCAI Papers (Version: 2022-02), Rank 1st** (1 out of 15 out of 600+ IJCAI'21 papers) [link]
 - **[ICASSP'22]** Chaoli Zhang*, Zhiqiang Zhou*, Yingying Zhang*, Linxiao Yang*, Kai He*, Qingsong Wen*, Liang Sun* (*Equally Contributed), "NetRCA: An Effective Network Fault Cause Localization Algorithm," in Proc. IEEE 47th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022), Singapore, May 2022. [arXiv] [Oral]. Note: **ICASSP‘22 AIOps Challenge, First Place** (1/382, Team Name: MindOps) [link]
@@ -60,7 +60,7 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 - **[NeurIPS'21]** Fan Yang, Kai He, Linxiao Yang, Hongxia Du, Jingbang Yang, Bo Yang, and Liang Sun. 2021. Learning Interpretable Decision Rule Sets: A Submodular Optimization Approach. in Proc. of Advances in Neural Information Processing Systems (NeurIPS 2021), 2021. [paper]
 
 
-#  Short Bio of Lecturers
+## Short Bio of Lecturers
 
 - **Qingsong Wen** is currently a Staff Engineer / Team Leader with Alibaba DAMO Academy-Decision Intelligence Lab at Bellevue, WA, USA, working in the areas of intelligent time series analysis, data-driven intelligence decisions, machine learning, and signal processing. Before that, he worked at Futurewei, Qualcomm, and Marvell in the areas of big data and signal processing, and received his M.S. and Ph.D. degrees in Electrical and Computer Engineering from Georgia Institute of Technology, Atlanta, USA. He has published over 30 top-ranked conference and journal papers, and won the First Place in 2022 ICASSP Grand Challenge (AIOps in Networks) Competition. He is an Associate Editor for Neurocomputing, Guest Editor for Pattern Recognition, Guest Editor for Applied Energy, and regularly served as an SPC/PC member of the major DM/ML/AI conferences including KDD, ICDM, AAAI, IJCAI, etc.
 
