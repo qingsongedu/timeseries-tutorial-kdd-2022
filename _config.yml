@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Robust Time Series Analysis and Applications: An Industrial Perspective]
 description: [KDD 2022 Tutorial, by Qingsong Wen, Linxiao Yang, Tian Zhou, and Liang Sun]
-github:
-  is_project_page: false
+
