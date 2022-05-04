@@ -1,7 +1,21 @@
+# Setup
+title:        "Robust Time Series Analysis and Applications: An Industrial Perspective"
+tagline:      A tutorial at KDD 2022
+baseurl:      "/timeseries-tutorial-kdd-2022/"
+paginate:     1
+locale:       "en"
+exclude:      [ "README.md", "Gemfile.lock", "Gemfile", "jekyll-cayman-theme.gemspec" ]
+
+# About/contact
+author:
+  name:       Qingsong Wen
+  url:        https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
 theme: jekyll-theme-cayman
-title: "Robust Time Series Analysis and Applications: An Industrial Perspective"
-description: [KDD 2022 Tutorial, by Qingsong Wen, Linxiao Yang, Tian Zhou, and Liang Sun]
-tagline:      A tutorial at KDD 2021
-
-
-
