@@ -1,5 +1,5 @@
 
-#  Tutorial Lecturers
+#  Robust Time Series Analysis and Applications
 
 
 #  Tutorial Date, Time, Location
