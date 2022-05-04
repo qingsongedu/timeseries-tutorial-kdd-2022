@@ -1,5 +1,5 @@
 
-Welcome!
+
 
 #  Tutorial Date, Time, Location
 - **Date**: TBD
