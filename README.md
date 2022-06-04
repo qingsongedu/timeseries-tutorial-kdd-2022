@@ -37,6 +37,9 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
    - Fault Cause Localization: Rule Set Learning, Root Cause Analysis, and Case Studies
    - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
 
+3. Further Reading:
+   - AI for Time Series (AI4TS) Papers, Tutorials, and Surveys [\[GitHub link\]](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
+
 
 ## Key References Published by Lecturers
 
