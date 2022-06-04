@@ -92,8 +92,8 @@ If you find our work useful, please cite our work
 }
 ```
 
-## Previous Tutorial
-- IJCAI 2021 Tutorial: [Robust Time Series Analysis: from Theory to Applications in the AI Era](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
+## Related Tutorial
+- IJCAI 2022 Tutorial: [Robust Time Series Analysis: from Theory to Applications in the AI Era](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6-pWt_hGW24fe4IIRD8g4PNbhnPT-B-QCUL1m4aUXVw'></script>
 
