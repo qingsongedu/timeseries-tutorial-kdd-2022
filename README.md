@@ -1,6 +1,6 @@
 
 
-Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial!
+Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial, "Robust Time Series Analysis and Applications: An Industrial Perspective".
 
 ##  Tutorial Date, Time, Location
 - **Date**: TBD
