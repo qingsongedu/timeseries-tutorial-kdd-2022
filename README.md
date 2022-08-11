@@ -15,9 +15,11 @@ Time series analysis is ubiquitous and important in various areas, such as Artif
 In this tutorial, we provide a comprehensive and organized tutorial on the state-of-the-art algorithms of robust time series analysis, ranging from traditional statistical methods to the most recent deep learning based methods. We will not only introduce the principle of time series algorithms, but also provide insights into how to apply them effectively in practical real-world industrial applications. Specifically, we organize the tutorial in a bottom-up framework. We first present preliminaries from different disciplines including robust statistics, signal processing, optimization, and deep learning. Then, we identify and discuss those most-frequently processing blocks in robust time series analysis, including periodicity detection, trend filtering, seasonal-trend decomposition, and time series similarity. Lastly, we discuss recent advances in multiple time series tasks including forecasting, anomaly detection, fault cause localization, and autoscaling, as well as practical lessons of large-scale time series applications from an industrial perspective. 
 
 
-## Tutorial Outline and Materials
+## Tutorial Materials and Outline
 
-1. Preliminaries [[slides]]()(coming soon)
+### Tutorial [[slides]](https://github.com/qingsongedu/timeseries-tutorial-kdd-2022/blob/main/files/KDD22_Tutorial_Robust%20TS_Final.pdf)
+### Tutorial Outline
+1. Preliminaries 
    - Real-world Challenges and Needs for Robustness
    - Robust Statistics: Robust Regression, M-estimators
    - Signal Processing: Fourier, Wavelet 
@@ -25,20 +27,22 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
    - Deep Learning: RNN, CNN, GNN, Transformer, Data Augmentation for Time Series
 
 
-2. Robust Time Series Processing Blocks [[slides]]()(coming soon)
+2. Robust Time Series Processing Blocks 
    - Time Series Periodicity Detection
    - Time Series Trend Filtering
    - Time Series Seasonal-Trend Decomposition
    - Time Series Similarity
 
-3. Robust Time Series Applications and Practices [[slides]]()(coming soon)
+3. Robust Time Series Applications and Practices 
    - Forecasting: Tree Model, Deep Ensemble, Transformer, and Case Studies
+   - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
    - Anomaly Detection: Decomposition Model, Deep State Space Model, Transformer, and Case Studies
    - Fault Cause Localization: Rule Set Learning, Root Cause Analysis, and Case Studies
-   - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
+
 
 3. Further Reading:
    - AI for Time Series (AI4TS) Papers, Tutorials, and Surveys [\[GitHub link\]](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
+
 
 
 ## Key References Published by Lecturers
