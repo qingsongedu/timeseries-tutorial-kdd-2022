@@ -4,7 +4,7 @@ Website: https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/
 
 
 ##  Tutorial Date, Time, Location
-- **Date**: 08/14/2022 (mm/dd/yyyy)
+- **Date**: Sunday, 08/14/2022 (mm/dd/yyyy)
 - **Time**: Sun 9:00 am - 12:00 pm
 - **Location**: Room 207B, Washington DC Convention Center, USA
 
