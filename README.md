@@ -1,6 +1,9 @@
+# KDD2022-Tutorial-Time-Series
 
+KDD'22 Tutorial: "Robust Time Series Analysis and Applications: An Industrial Perspective"
 
-Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial, "Robust Time Series Analysis and Applications: An Industrial Perspective".
+Website: https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/
+
 
 ##  Tutorial Date, Time, Location
 - **Date**: 08/14/2022 (mm/dd/yyyy)
