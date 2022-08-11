@@ -3,9 +3,9 @@
 Welcome to our [KDD'22](https://kdd.org/kdd2022/) Tutorial, "Robust Time Series Analysis and Applications: An Industrial Perspective".
 
 ##  Tutorial Date, Time, Location
-- **Date**: TBD
-- **Time**: TBD
-- **Location**: TBD
+- **Date**: 08/14/2022 (mm/dd/yyyy)
+- **Time**: Sun 9:00 am - 12:00 pm
+- **Location**: Room 207B, Washington DC Convention Center, USA
 
 
 ## Tutorial Abstract
@@ -62,6 +62,9 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 - **[ICASSP'21]** Linxiao Yang, Qingsong Wen, Bo Yang, Liang Sun, "A Robust and Efficient Multi-Scale Seasonal-Trend Decomposition," in Proc. IEEE 46th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021), Toronto, Canada, Jun. 2021. [[paper]](https://drive.google.com/file/d/17ewVAL-mdwH6QoIka1ZrzAAoyXtph8a3/view)
 - **[KDD'20 WS]** Jingkun Gao, Xiaomin Song, Qingsong Wen, Pichao Wang, Liang Sun, Huan Xu, "RobustTAD: Robust Time Series Anomaly Detection via Decomposition and Convolutional Neural Networks,"  in ACM SIGKDD Workshop on Mining and Learning from Time Series (KDD-MiLeTS 2020), San Diego, CA, Aug. 2020. [[arXiv]](https://arxiv.org/abs/2002.09545)
 - **[TKDE'22]** Longyuan Li, Junchi Yan, Qingsong Wen, Yaohui Jin, and Xiaokang Yang, "Learning Robust Deep State Space for Unsupervised Anomaly Detection in Contaminated Time-Series," IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [[paper]](https://ieeexplore.ieee.org/document/9773982)
+- **[TPWRS'22]** Yihong Zhou, Zhaohao Ding, Qingsong Wen, Yi Wang, "Robust Load Forecasting towards Adversarial Attacks via Bayesian Learning," IEEE Transactions on Power Systems (TPWRS 2022), 2022. [[paper]](https://ieeexplore.ieee.org/document/9775206)
+- **[CIKM'22]** Chaoli Zhang, Tian Zhou, Qingsong Wen, Liang Sun, "TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Freq Analysis,” in Proc. 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, GA, Oct. 2022. 
+- **[CIKM'22]** Xiaomin Song, Qingsong Wen, and Liang Sun, "Robust Time Series Dissimilarity Measure for Outlier Detection and Periodicity Detection,” in Proc. 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, GA, Oct. 2022. 
 - **[CIKM'21]** Yingying Zhang, Zhengxiong Guan, Huajie Qian, Leili Xu, Hengbo Liu, Qingsong Wen, Liang Sun, Junwei Jiang, Lunting Fan, Min Ke, "CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms," in Proc. 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Queensland, Australia, Nov. 2021. [[arXiv]](https://arxiv.org/abs/2111.03753)
 - **[ICCV'19]** Linxiao Yang, Ngai-Man Cheung, Jiaying Li, and Jun Fang. Deep clustering by gaussian mixture variational autoencoders with graph embedding. In Proc. of the IEEE/CVF International Conference on Computer Vision (ICCV 2019), pages 6440–6449, 2019. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Deep_Clustering_by_Gaussian_Mixture_Variational_Autoencoders_With_Graph_Embedding_ICCV_2019_paper.pdf)
 - **[KDD'19]** Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu, and Rong Jin. 2019. Robust Gaussian process regression for real-time high precision GPS signal enhancement. In Proc. of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2019). 2838–2847. [[arXiv]](https://arxiv.org/abs/1906.01095)
