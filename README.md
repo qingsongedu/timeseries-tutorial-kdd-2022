@@ -96,7 +96,7 @@ If you find our work useful, please cite our work
   title={Robust Time Series Analysis and Applications: An Industrial Perspective},
   author={Wen, Qingsong and Yang, Linxiao and Zhou, Tian and Sun, Liang},
   booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
-  pages={1--2},
+  pages={4836--4837},
   year={2022}
 }
 ```
