@@ -20,28 +20,29 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 
 ### Tutorial [[slides]](https://github.com/qingsongedu/timeseries-tutorial-kdd-2022/blob/main/files/KDD22_Tutorial_Robust%20TS_Final.pdf)
 ### Tutorial Outline
-1. Preliminaries 
+
+1. Introduction
    - Real-world Challenges and Needs for Robustness
+   
+2. Preliminaries 
    - Robust Statistics: Robust Regression, M-estimators
    - Signal Processing: Fourier, Wavelet 
    - Optimization Algorithms: Alternating Direction Method of Multipliers (ADMM), Majorize-Minimization (MM)
    - Deep Learning: RNN, CNN, GNN, Transformer, Data Augmentation for Time Series
-
-
-2. Robust Time Series Processing Blocks 
+   
+3. Robust Time Series Processing Blocks 
    - Time Series Periodicity Detection
    - Time Series Trend Filtering
    - Time Series Seasonal-Trend Decomposition
    - Time Series Similarity
 
-3. Robust Time Series Applications and Practices 
+4. Robust Time Series Applications and Practices 
    - Forecasting: Tree Model, Deep Ensemble, Transformer, and Case Studies
-   - Autoscaling: Query Modeling, Scaling Decision, and Case Studies
+   - Autoscaling (from Forecasting to Decision-Making): Query Modeling, Scaling Decision, and Case Studies
    - Anomaly Detection: Decomposition Model, Deep State Space Model, Transformer, and Case Studies
-   - Fault Cause Localization: Rule Set Learning, Root Cause Analysis, and Case Studies
+   - Fault Cause Localization (from Anomaly Detection to Localization): Rule Set Learning, Root Cause Analysis, and Case Studies
 
-
-3. Further Reading:
+5. Further Reading:
    - AI for Time Series (AI4TS) Papers, Tutorials, and Surveys [\[GitHub link\]](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
 
 
