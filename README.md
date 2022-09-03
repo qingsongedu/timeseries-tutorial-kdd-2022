@@ -54,6 +54,8 @@ In this tutorial, we provide a comprehensive and organized tutorial on the state
 - **[ICML'22]** Tian Zhou, Ziqing Ma, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin, "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting," in Proc. 39th International Conference on Machine Learning (ICML 2022), Baltimore, Maryland, July 17-23, 2022. [[arXiv]](https://arxiv.org/abs/2201.12740) [[code]](https://github.com/MAZiqing/FEDformer)
 - **[KDD'22]** Weiqi Chen, Wenwei Wang, Bingqing Peng, Qingsong Wen, Tian Zhou, Liang Sun, "Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting", in Proc. 28th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2022), Washington DC, Aug. 2022.[[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)
 - **[arXiv'22]** Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, Liang Sun, "Transformers in Time Series: A Survey," in arXiv preprint arXiv:2202.07125, 2022 [[arXiv]](https://arxiv.org/abs/2202.07125) [[Github]](https://github.com/qingsongedu/time-series-transformers-review)
+- **[arXiv'22]** Tian Zhou, Ziqing Ma, Xue Wang, Qingsong Wen, Liang Sun, Tao Yao, Wotao Yin, Rong Jin, "FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting", arXiv.2205.08897, 2022. [[arXiv]](https://arxiv.org/abs/2205.08897)
+- **[arXiv'22]** Tian Zhou, Jianqing Zhu, Xue Wang, Ziqing Ma, Qingsong Wen, Liang Sun, Rong Jin, "TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting", arXiv:2206.12106. [[arXiv]](https://arxiv.org/abs/2206.12106)
 - **[ICDE'22]** Huajie Qian, Qingsong Wen, Liang Sun, Jing Gu, Qiulin Niu, Zhimin Tang, "RobustScaler: QoS-Aware Autoscaling for Complex Workloads," in Proc. IEEE 38th International Conference on Data Engineering (ICDE 2022), Kuala Lumpur, Malaysia, May 2022. [[arXiv]](https://arxiv.org/abs/2204.07197), Media Coverage: [[Mo4Tech]](https://www.mo4tech.com/ali-cloud-and-dharma-institute-ahpa-elastic-forecasting-paper-was-accepted-by-icde.html) [[Alicloudnative]](https://mp.weixin.qq.com/s/-aZd9SvNPYuQc4nEwiNzvQ) [Zhihu](https://zhuanlan.zhihu.com/p/495126311) [[1024sou]](https://www.1024sou.com/article/892152.html)
 - **[SIGMOD'21]** Qingsong Wen, Kai He, Liang Sun, Yingying Zhang, Min Ke, Huan Xu, "RobustPeriod: Time-Frequency Mining for Robust Multiple Periodicity Detection," in Proc. ACM SIGMOD International Conference on Management of Data (SIGMOD 2021), Xi'an, China, Jun. 2021. [[arXiv]](https://arxiv.org/abs/2002.09535)
 - **[KDD'20]** Qingsong Wen, Zhe Zhang, Yan Li, Liang Sun, "Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns," in Proc. 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2020), San Diego, CA, Aug. 2020. [[paper]](https://www.kdd.org/kdd2020/accepted-papers/view/fast-robuststl-efficient-and-robust-seasonal-trend-decomposition-for-time-s)
@@ -102,7 +104,7 @@ If you find our work useful, please cite our work
 ```
 
 ## Related Tutorial
-- IJCAI 2022 Tutorial: [Robust Time Series Analysis: from Theory to Applications in the AI Era](https://sites.google.com/view/timeseries-tutorial-ijcai-2022)
+- TBD
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6-pWt_hGW24fe4IIRD8g4PNbhnPT-B-QCUL1m4aUXVw'></script>
 
